@@ -11,7 +11,7 @@ function calculateAge(year) {
 
 // retirement(1956);
 var retirement = function(year) {
-    console.log(65 - (2016 - year));
+    console.log(65 - (2016 - year)); fn
 }
 
 
@@ -27,9 +27,6 @@ function foo() {
 }
 foo();
 console.log(age);
-*/
-
-
 
 /////////////////////////////////////
 // Lecture: Scoping
@@ -70,8 +67,6 @@ function third() {
     console.log(a+d);
 }
 */
-
-
 
 /////////////////////////////////////
 // Lecture: The this keyword

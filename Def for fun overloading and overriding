@@ -1,0 +1,8 @@
+
+Fn overloading 
+  - same fn name with different arguments 
+  - compile time
+  - arguments may differ
+fn overriding  
+  - same fn name, same no of arguments but return type is different
+  - Run time
